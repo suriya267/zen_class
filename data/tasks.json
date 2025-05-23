@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "683053912b6006a9cdd2fccc"
+  },
+  "task_name": "Install MongoDB",
+  "user_id": {
+    "$oid": "665205a01c9d440001d9a001"
+  },
+  "submitted": true,
+  "date": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683053912b6006a9cdd2fccd"
+  },
+  "task_name": "Aggregation Pipeline",
+  "user_id": {
+    "$oid": "665205a01c9d440001d9a002"
+  },
+  "submitted": false,
+  "date": {
+    "$date": "2020-10-12T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683053912b6006a9cdd2fcce"
+  },
+  "task_name": "Create Index",
+  "user_id": {
+    "$oid": "665205a01c9d440001d9a003"
+  },
+  "submitted": true,
+  "date": {
+    "$date": "2020-10-19T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683053912b6006a9cdd2fccf"
+  },
+  "task_name": "$lookup Practice",
+  "user_id": {
+    "$oid": "665205a01c9d440001d9a004"
+  },
+  "submitted": false,
+  "date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "683053912b6006a9cdd2fcd0"
+  },
+  "task_name": "Query Optimization",
+  "user_id": {
+    "$oid": "665205a01c9d440001d9a005"
+  },
+  "submitted": true,
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  }
+}]

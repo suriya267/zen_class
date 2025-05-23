@@ -1,0 +1,45 @@
+[{
+  "_id": {
+    "$oid": "6830512d2b6006a9cdd2fcbd"
+  },
+  "user_id": {
+    "$oid": "665205a01c9d440001d9a001"
+  },
+  "problems_solved": 150
+},
+{
+  "_id": {
+    "$oid": "6830512d2b6006a9cdd2fcbe"
+  },
+  "user_id": {
+    "$oid": "665205a01c9d440001d9a002"
+  },
+  "problems_solved": 95
+},
+{
+  "_id": {
+    "$oid": "6830512d2b6006a9cdd2fcbf"
+  },
+  "user_id": {
+    "$oid": "665205a01c9d440001d9a003"
+  },
+  "problems_solved": 180
+},
+{
+  "_id": {
+    "$oid": "6830512d2b6006a9cdd2fcc0"
+  },
+  "user_id": {
+    "$oid": "665205a01c9d440001d9a004"
+  },
+  "problems_solved": 75
+},
+{
+  "_id": {
+    "$oid": "6830512d2b6006a9cdd2fcc1"
+  },
+  "user_id": {
+    "$oid": "665205a01c9d440001d9a005"
+  },
+  "problems_solved": 120
+}]

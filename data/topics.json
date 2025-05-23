@@ -1,0 +1,65 @@
+[{
+  "_id": {
+    "$oid": "683052f62b6006a9cdd2fcc7"
+  },
+  "topic": "MongoDB Introduction",
+  "date": {
+    "$date": "2020-10-05T00:00:00.000Z"
+  },
+  "tasks": [
+    "Install MongoDB",
+    "Basic CRUD operations"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683052f62b6006a9cdd2fcc8"
+  },
+  "topic": "MongoDB Aggregation",
+  "date": {
+    "$date": "2020-10-12T00:00:00.000Z"
+  },
+  "tasks": [
+    "Aggregation pipeline",
+    "Group and Match"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683052f62b6006a9cdd2fcc9"
+  },
+  "topic": "MongoDB Indexing",
+  "date": {
+    "$date": "2020-10-19T00:00:00.000Z"
+  },
+  "tasks": [
+    "Create Index",
+    "Explain Query Plan"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683052f62b6006a9cdd2fcca"
+  },
+  "topic": "Relationships in MongoDB",
+  "date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  },
+  "tasks": [
+    "$lookup",
+    "Embedding vs Referencing"
+  ]
+},
+{
+  "_id": {
+    "$oid": "683052f62b6006a9cdd2fccb"
+  },
+  "topic": "MongoDB Performance Tuning",
+  "date": {
+    "$date": "2020-10-30T00:00:00.000Z"
+  },
+  "tasks": [
+    "Optimize Queries",
+    "Use Explain and Profile"
+  ]
+}]

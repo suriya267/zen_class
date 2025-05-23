@@ -1,0 +1,60 @@
+[{
+  "_id": {
+    "$oid": "6830525f2b6006a9cdd2fcc2"
+  },
+  "user_id": {
+    "$oid": "665205a01c9d440001d9a001"
+  },
+  "date": {
+    "$date": "2020-10-16T00:00:00.000Z"
+  },
+  "present": true
+},
+{
+  "_id": {
+    "$oid": "6830525f2b6006a9cdd2fcc3"
+  },
+  "user_id": {
+    "$oid": "665205a01c9d440001d9a002"
+  },
+  "date": {
+    "$date": "2020-10-18T00:00:00.000Z"
+  },
+  "present": false
+},
+{
+  "_id": {
+    "$oid": "6830525f2b6006a9cdd2fcc4"
+  },
+  "user_id": {
+    "$oid": "665205a01c9d440001d9a003"
+  },
+  "date": {
+    "$date": "2020-10-20T00:00:00.000Z"
+  },
+  "present": true
+},
+{
+  "_id": {
+    "$oid": "6830525f2b6006a9cdd2fcc5"
+  },
+  "user_id": {
+    "$oid": "665205a01c9d440001d9a004"
+  },
+  "date": {
+    "$date": "2020-10-22T00:00:00.000Z"
+  },
+  "present": false
+},
+{
+  "_id": {
+    "$oid": "6830525f2b6006a9cdd2fcc6"
+  },
+  "user_id": {
+    "$oid": "665205a01c9d440001d9a005"
+  },
+  "date": {
+    "$date": "2020-10-25T00:00:00.000Z"
+  },
+  "present": true
+}]
